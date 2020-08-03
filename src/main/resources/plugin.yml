@@ -1,0 +1,9 @@
+name: OutpostRankPerks
+main: me.bxoxb.rankinfo.Main
+version: "1.3"
+author: Bxoxb
+description: Display Rank Perks
+commands:
+  rank:
+    description: Shows rank info.
+    usage: "/rank {savage, brawler, mercenary, fighter, gladiator}"
